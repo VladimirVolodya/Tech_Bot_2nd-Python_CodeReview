@@ -1,0 +1,4 @@
+bot_token = '1179249160:AAGW3ACpkBWrC5q7Y_U6VaVY0UruYtw3zn8'
+# api_key = '7S34GT2OMG6XE4V1'
+api_key = 'POLYJ7PHV52OEA43'
+proxy = 'socks5h://5.133.196.164:31431'
